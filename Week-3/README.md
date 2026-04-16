@@ -60,10 +60,4 @@ This project demonstrates a complete end-to-end Security Operations Center (SOC)
 
 ---
 
-## 🚀 Future Improvements
-- Implement automated IP blocking using Wazuh Active Response.
-- Integrate AlienVault OTX or VirusTotal for automated IP reputation checks.
-- Build custom dashboards for real-time visualization of scanning activity.
-
----
 
